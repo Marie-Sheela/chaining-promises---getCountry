@@ -14,8 +14,9 @@ From Andorra's data i take the 1st neighbouring country of Andorra (France).
 Result
 I display resulting country(France) information:
 name, capital population and  image of the flag.
+(output included in folder)
 ===
 
 Error handling:
-in case the user cannot connect to server, i create a new Error and throw the message.(something went wrong!)
+in case the user searches for a country that does not exist eg "Pkkjgkjdd", i create a new Error and throw the message.something went wrong! (output included in folder)
 
