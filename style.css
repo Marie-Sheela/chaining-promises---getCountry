@@ -1,0 +1,10 @@
+.result {
+  background-color: rgb(245, 234, 234);
+  width: 200px;
+  margin: 50px;
+  padding: 50px;
+}
+
+.flag {
+  height: 50px;
+}
